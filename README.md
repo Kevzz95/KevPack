@@ -6,7 +6,7 @@ It provides a trail to every mirror and chest on Castora, with instructions on w
 
 The pack makes use of information windows provided by the BHud Pathing module for instructions.
 Please make sure to enable the following settings for Pathing:
-![Settings][(https://github.com/Kevzz95/KevPack/blob/main/Pathing%20settings.png")]
+
 
 
 
