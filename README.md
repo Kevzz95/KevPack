@@ -7,5 +7,7 @@ It provides a trail to every mirror and chest on Castora, with instructions on w
 
 
 Contact:
+
 In game: iKevzz.8241
+
 Discord: Kevzz
