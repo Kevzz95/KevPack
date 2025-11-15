@@ -9,8 +9,7 @@ Please make sure to enable the following settings for Pathing:
 ![Instructions](https://github.com/Kevzz95/KevPack/blob/main/PathingSettings.png "Instructions")
 ![Information](https://github.com/Kevzz95/KevPack/blob/main/instructions.png "Information")
 
-
-Contact:  
+For feedback or ideas contact me on:  
 In game: iKevzz.8241  
 Discord: Kevzz
 
