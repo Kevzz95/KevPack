@@ -10,7 +10,7 @@ Please make sure to enable the following settings for optimal usage of the pack:
 ![Instructions](https://github.com/Kevzz95/KevPack/blob/main/PathingSettings.png "Instructions")
 ![Information](https://github.com/Kevzz95/KevPack/blob/main/instructions.png "Information")
 
-For feedback or ideas contact me:  
+For feedback or suggestions contact me:  
 In game: iKevzz.8241  
 Discord: Kevzz
 
